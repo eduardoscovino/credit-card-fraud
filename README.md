@@ -22,7 +22,7 @@ Logistic Regression is an ML classification algorithm that uses one or more inde
 
 The goal of Logistic Regression is to determine the best relationship between the features and the dependent variable, the target. It is better than other binary classification algorithms because it quantitatively explains the factors leading to the classification.
 
-## Advantages and Disadvantages
+### Advantages and Disadvantages
 
 Logistic regression is aimed at classifications, especially in understanding how the features affect the dependent variable.
 
@@ -41,7 +41,7 @@ It is a classification based on Bayes' theorem, which assumes independence betwe
 
 Even if the features depend on each other, all these properties contribute to the probability independently. This model is easy to build and particularly useful for large databases.
 
-## Advantages and Disadvantages
+### Advantages and Disadvantages
 
 It requires a small amount of training data to estimate the necessary parameters and is very fast compared to other classifiers.
 
@@ -60,7 +60,7 @@ It is a lazy learning algorithm that stores all instances corresponding to train
 
 Classification is computed from the label of the majority of a number k of the closest neighbors of a given data point.
 
-## Advantages and Disadvantages
+### Advantages and Disadvantages
 
 The algorithm is relatively simple to implement and is robust against noise from the training dataset. Even if the dataset is large, it is very efficient.
 
@@ -85,7 +85,7 @@ The tree is built by recursive splitting, with a node being the split (or branch
 
 The interesting thing about a decision tree is its application to both numerical and categorical data.
 
-## Advantages and Disadvantages
+### Advantages and Disadvantages
 
 The advantages include simplicity of understanding and visualization, and requiring little data preparation.
 
