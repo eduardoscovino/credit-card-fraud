@@ -97,3 +97,7 @@ It is used for:
 - Pattern recognition
 - Pricing
 - Disease and threat/risk identification
+
+
+Source:
+https://www.edureka.co/blog/classification-in-machine-learning/
