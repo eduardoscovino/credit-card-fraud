@@ -1,5 +1,9 @@
 # Credit Card Fraud Analysis
 
+<p align="center">
+  <img src="detective.png" >
+</p>
+
 Hello, everybody!
 
 I made this notebook to exercise some different classification models that I've been studying on the previous weeks. I didn't develop the optimization of these models nor the tuning, hyper-parameters and etc.
